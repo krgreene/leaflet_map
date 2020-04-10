@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+#map {
+  display: flex;
+  /* position: relative; */
+  justify-content: center;
+  /* align-items: center; */
+  margin: 50px 200px 50px 200px;
+  padding: 10px;
+  align-self: center;
+  border-style: solid;
+  border-color: blue;
+  height: 400px;
+}
