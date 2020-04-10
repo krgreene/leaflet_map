@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>The UWI Cave Hill</h1>
-      <div className={'map'}>
+      <div>
         <Map />        
       </div>
     </div>
